@@ -1,0 +1,3 @@
+Poesía Corporal es una experiencia interactiva que fusiona arte y tecnología, empleando un avanzado modelo de aprendizaje preentrenado. Desarrollado utilizando las bibliotecas p5.js y ml5.js, este proyecto se sumerge en la detección de partes del cuerpo para crear una conexión única entre la expresión física y la poesía.
+
+En un esfuerzo por contrarrestar los diálogos internos negativos que a menudo nos dirigimos a nosotros mismos, Poesía Corporal transforma la autocrítica en mensajes positivos y poéticos. El proyecto responde en tiempo real a las posturas y movimientos del usuario, generando frases que celebran la singularidad y fomentan el amor propio.
